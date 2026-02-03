@@ -1,0 +1,12 @@
+H1 {text-align: center;}
+
+#body {background-color: lightyellow;}
+#pizzabody {background-color: rgb(176, 139, 99);}
+#pizzabox {background-color: rgb(186, 165, 141);}
+#pizzabox2 {background-color: rgb(200, 180, 141);}
+#pizzabox3 {background-color: rgb(204, 187, 143);}
+
+.normaltext {background-color: white;}
+.centertext {text-align: center;
+font-family: 'Brush Script MT',cursive;}
+.textcenter {text-align: center;}
