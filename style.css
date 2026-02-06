@@ -8,15 +8,20 @@ H1 {text-align: center;}
 
 #chaibody {background-color: rgb(225, 225, 150);}
 
-#pizzabox {background-color: rgb(186, 165, 141);}
-#pizzabox2 {background-color: rgb(200, 180, 141);}
-#pizzabox3 {background-color: rgb(204, 187, 143);}
+#pizzabox {background-color: rgb(186, 165, 141);
+border-width: 2px; border-style: dashed; border-color: black;}
 
-#coffeebox {background-color: rgb(204, 140, 143);}
-#coffeebox2 {background-color: rgb(220, 140, 143);}
+#pizzabox2 {background-color: rgb(200, 180, 141); border-width: 2px; border-style: dashed; border-color: black;}
 
-#chaibox {background-color: rgb(220, 190, 143);}
-#chaibox2 {background-color: rgb(220, 160, 160);}
+#pizzabox3 {background-color: rgb(204, 187, 143); border-width: 2px; border-style: dashed; border-color: black;}
+
+#coffeebox {background-color: rgb(204, 140, 143); border-width: 2px; border-style: dashed; border-color: black;}
+
+#coffeebox2 {background-color: rgb(220, 140, 143); border-width: 2px; border-style: dashed; border-color: black;}
+
+#chaibox {background-color: rgb(220, 190, 143); border-width: 2px; border-style: dashed; border-color: black;}
+
+#chaibox2 {background-color: rgb(220, 160, 160); border-width: 2px; border-style: dashed; border-color: black;}
 
 .normaltext {background-color: white;}
 .centertext {text-align: center; font-family: 'Brush Script MT',cursive;}
