@@ -39,6 +39,10 @@ border-width: 2px; border-style: dashed; border-color: black; border-radius: 15p
   background-color: #ffe8a8;
   color: grey;
 }
+a {
+  text-decoration: none;
+}
 a:hover {
-  color: green;
+  background-color: green;
+  text-decoration: underline;
 }
